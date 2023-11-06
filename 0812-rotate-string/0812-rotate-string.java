@@ -2,19 +2,17 @@ class Solution {
     public boolean rotateString(String s, String goal) {
         if(s.length()!=goal.length()){
             return false;
-        }else if(s.length()==0){
-            return true;
         }
-        int count=0;
-        while(count<s.length()){
-            if(s.equals(goal)){
+        StringBuilder sb= new StringBuilder(s);
+        int i=0;
+        while(i<s.length()){
+            char ch= sb.charAt(0);
+            sb.deleteCharAt(0);
+            sb.append(ch);
+            if(sb.toString().equals(goal)){
                 return true;
-            }else{
-                char i= s.charAt(0);
-                s=s.substring(1,s.length())+i;
             }
-            count++;
-
+            i++;
         }
         return false;
         
