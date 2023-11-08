@@ -1,3 +1,4 @@
+/* count the max depth of a valid parentheses string i.e after how many braces the string will come.*/
 class Solution {
     public int maxDepth(String s) {
         int max=0;
