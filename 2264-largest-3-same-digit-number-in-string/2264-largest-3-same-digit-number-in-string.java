@@ -1,11 +1,21 @@
-class Solution{
-    public String largestGoodInteger(String num){
+class Solution {
+    public String largestGoodInteger(String num) {
+        int count = 0;
         String ans = "";
-        for(int i = 2; i < num.length(); i++)
-            if(num.charAt(i) == num.charAt(i-1) && num.charAt(i-1) == num.charAt(i-2))
-                if(num.substring(i-2,i+1).compareTo(ans) > 0){
-                    ans = num.substring(i-2,i+1);
+        String s = "";
+        for (int i = 0; i < num.length() - 1; i++) {
+            if (num.charAt(i) == num.charAt(i + 1)) {
+                count++;
+            } else {
+                count = 0;
+            }
+            if (count >= 2) {
+                ans = num.substring(i-1,i+2);
+                if(ans.compareTo(s)>0){
+                    s=ans;
                 }
-        return ans;
+            }
+        }
+        return s;
     }
 }
