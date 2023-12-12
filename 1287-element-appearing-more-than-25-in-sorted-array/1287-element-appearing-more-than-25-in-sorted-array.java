@@ -1,19 +1,21 @@
 class Solution {
     public int findSpecialInteger(int[] arr) {
-        int size = arr.length;
-        int qtr = size / 4;
-        int cnt = 1;
-        int p = arr[0];
-        for (int i = 1 ; i < arr.length ; i++) {
-
-            if ( p == arr[i]) cnt++;
-            else cnt = 1;
-            
-            if (cnt > qtr) return arr[i];
-            
-            p = arr[i];
+        int count=1;
+        int n=arr.length;
+        if(n==1){
+            return arr[0];
         }
+        for(int i=0; i<n-1; i++){
+            if(arr[i]==arr[i+1]){
+                count++;
+            }else{
+                count=1;
+            }
+            if(count>n/4){
+                return arr[i];
+            }
+        }
+        return -1;
 
-        return p;
     }
 }
