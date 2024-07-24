@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1333-sort-the-jumbled-numbers](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1333-sort-the-jumbled-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1333-sort-the-jumbled-numbers](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1333-sort-the-jumbled-numbers) |
 <!---LeetCode Topics End-->
