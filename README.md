@@ -49,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1333-sort-the-jumbled-numbers) |
+## Math
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0650-2-keys-keyboard) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
