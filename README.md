@@ -53,8 +53,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0650-2-keys-keyboard) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0650-2-keys-keyboard) |
+## String
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
