@@ -32,10 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1333-sort-the-jumbled-numbers) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
