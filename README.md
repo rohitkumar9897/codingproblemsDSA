@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0812-rotate-string](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
