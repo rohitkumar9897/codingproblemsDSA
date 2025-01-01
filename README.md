@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0812-rotate-string](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -84,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rohitkumar9897/codingproblemsDSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
